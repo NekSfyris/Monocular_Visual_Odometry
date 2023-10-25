@@ -1,5 +1,5 @@
 # Trajectory-from-VO
-Camera trajectory estimation using feature based Visual Odometry.
+Camera trajectory estimation using feature-based Visual Odometry from a monocular camera.
 
 ## System Results
 ### Camera Motion Visualization
